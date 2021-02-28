@@ -7,7 +7,7 @@
 
 ####Inline code
 
-`$ git clone`
+`$ git clone https://github.com/Dursky/Neural-Networks`<br>
 `$ cd Neural-Networks`
 
 
