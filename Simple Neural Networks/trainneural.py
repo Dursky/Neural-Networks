@@ -37,7 +37,7 @@ print(network.weights)
 
 print("Testing the data")
 test_data = np.array([[1, 1, 1], [1, 0, 0], [0, 1, 1], [0, 1, 0], ])
-
+print("101 - 5\n110 - 6\n010 - 2")
 for data in test_data:
     print(f"Result for {data} is:")
     print(network.propagation(data))
